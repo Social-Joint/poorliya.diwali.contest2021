@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/test/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/test/static/js/main.903a37ec.chunk.js",
-    "main.js.map": "/test/static/js/main.903a37ec.chunk.js.map",
-    "runtime-main.js": "/test/static/js/runtime-main.d15ab952.js",
-    "runtime-main.js.map": "/test/static/js/runtime-main.d15ab952.js.map",
-    "static/js/2.aa4c15d1.chunk.js": "/test/static/js/2.aa4c15d1.chunk.js",
-    "static/js/2.aa4c15d1.chunk.js.map": "/test/static/js/2.aa4c15d1.chunk.js.map",
-    "static/js/3.5c558e81.chunk.js": "/test/static/js/3.5c558e81.chunk.js",
-    "static/js/3.5c558e81.chunk.js.map": "/test/static/js/3.5c558e81.chunk.js.map",
+    "main.js": "/test/static/js/main.cad4be4e.chunk.js",
+    "main.js.map": "/test/static/js/main.cad4be4e.chunk.js.map",
+    "runtime-main.js": "/test/static/js/runtime-main.d1a39694.js",
+    "runtime-main.js.map": "/test/static/js/runtime-main.d1a39694.js.map",
+    "static/js/2.5d8a2201.chunk.js": "/test/static/js/2.5d8a2201.chunk.js",
+    "static/js/2.5d8a2201.chunk.js.map": "/test/static/js/2.5d8a2201.chunk.js.map",
+    "static/js/3.2e62e195.chunk.js": "/test/static/js/3.2e62e195.chunk.js",
+    "static/js/3.2e62e195.chunk.js.map": "/test/static/js/3.2e62e195.chunk.js.map",
     "index.html": "/test/index.html",
     "static/css/main.8c8b27cf.chunk.css.map": "/test/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.aa4c15d1.chunk.js.LICENSE.txt": "/test/static/js/2.aa4c15d1.chunk.js.LICENSE.txt",
+    "static/js/2.5d8a2201.chunk.js.LICENSE.txt": "/test/static/js/2.5d8a2201.chunk.js.LICENSE.txt",
     "static/media/knob.png": "/test/static/media/knob.8a98d16f.png",
     "static/media/logo.6ce24c58.svg": "/test/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d15ab952.js",
-    "static/js/2.aa4c15d1.chunk.js",
+    "static/js/runtime-main.d1a39694.js",
+    "static/js/2.5d8a2201.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.903a37ec.chunk.js"
+    "static/js/main.cad4be4e.chunk.js"
   ]
 }
