@@ -1,0 +1,7 @@
+{
+  "display": "standalone",
+  "lang": "en",
+  "name": "react-gh-pages",
+  "short_name": "react-gh-pages",
+  "start_url": "/?utm_source=web_app_manifest"
+}
