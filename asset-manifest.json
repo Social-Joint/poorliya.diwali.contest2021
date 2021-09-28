@@ -1,22 +1,24 @@
 {
   "files": {
-    "app.js": "/poorliya.diwali.contest2021/static/js/app.675d8f29.chunk.js",
-    "app.js.map": "/poorliya.diwali.contest2021/static/js/app.675d8f29.chunk.js.map",
-    "runtime~app.js": "/poorliya.diwali.contest2021/static/js/runtime~app.7af68717.js",
-    "runtime~app.js.map": "/poorliya.diwali.contest2021/static/js/runtime~app.7af68717.js.map",
-    "static/js/2.f8280d5b.chunk.js": "/poorliya.diwali.contest2021/static/js/2.f8280d5b.chunk.js",
-    "static/js/2.f8280d5b.chunk.js.map": "/poorliya.diwali.contest2021/static/js/2.f8280d5b.chunk.js.map",
-    "static/js/3.b01cefc4.chunk.js": "/poorliya.diwali.contest2021/static/js/3.b01cefc4.chunk.js",
-    "static/js/3.b01cefc4.chunk.js.map": "/poorliya.diwali.contest2021/static/js/3.b01cefc4.chunk.js.map",
+    "app.js": "/poorliya.diwali.contest2021/static/js/app.f6b4a739.chunk.js",
+    "app.js.map": "/poorliya.diwali.contest2021/static/js/app.f6b4a739.chunk.js.map",
+    "runtime~app.js": "/poorliya.diwali.contest2021/static/js/runtime~app.830677e0.js",
+    "runtime~app.js.map": "/poorliya.diwali.contest2021/static/js/runtime~app.830677e0.js.map",
+    "static/js/2.3803e3b2.chunk.js": "/poorliya.diwali.contest2021/static/js/2.3803e3b2.chunk.js",
+    "static/js/2.3803e3b2.chunk.js.map": "/poorliya.diwali.contest2021/static/js/2.3803e3b2.chunk.js.map",
+    "static/js/3.a9a7e3fb.chunk.js": "/poorliya.diwali.contest2021/static/js/3.a9a7e3fb.chunk.js",
+    "static/js/3.a9a7e3fb.chunk.js.map": "/poorliya.diwali.contest2021/static/js/3.a9a7e3fb.chunk.js.map",
     "index.html": "/poorliya.diwali.contest2021/index.html",
     "manifest.json": "/poorliya.diwali.contest2021/manifest.json",
     "serve.json": "/poorliya.diwali.contest2021/serve.json",
-    "static/js/2.f8280d5b.chunk.js.LICENSE.txt": "/poorliya.diwali.contest2021/static/js/2.f8280d5b.chunk.js.LICENSE.txt",
-    "static/media/knob.png": "/poorliya.diwali.contest2021/static/media/knob.8a98d16f.png"
+    "static/js/2.3803e3b2.chunk.js.LICENSE.txt": "/poorliya.diwali.contest2021/static/js/2.3803e3b2.chunk.js.LICENSE.txt",
+    "static/media/header.jpg": "/poorliya.diwali.contest2021/static/media/header.77313556.jpg",
+    "static/media/knob.png": "/poorliya.diwali.contest2021/static/media/knob.8a98d16f.png",
+    "static/media/logo.svg": "/poorliya.diwali.contest2021/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime~app.7af68717.js",
-    "static/js/2.f8280d5b.chunk.js",
-    "static/js/app.675d8f29.chunk.js"
+    "static/js/runtime~app.830677e0.js",
+    "static/js/2.3803e3b2.chunk.js",
+    "static/js/app.f6b4a739.chunk.js"
   ]
 }

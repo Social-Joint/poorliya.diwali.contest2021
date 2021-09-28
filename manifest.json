@@ -1,7 +1,7 @@
 {
   "display": "standalone",
   "lang": "en",
-  "name": "spin_to_win",
-  "short_name": "spin_to_win",
+  "name": "react-gh-pages",
+  "short_name": "react-gh-pages",
   "start_url": "/?utm_source=web_app_manifest"
 }
